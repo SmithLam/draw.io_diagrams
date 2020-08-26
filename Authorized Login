@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T09:28:53.167Z" agent="5.0 (Windows)" etag="r0V_Uds1p2awV2Y-3zFu" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T09:29:30.433Z" agent="5.0 (Windows)" etag="OxJ5JYqVS1PpvQCI1BoQ" version="13.6.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,6 +97,9 @@
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Admin" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="320" width="1140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FdfZOA-G8NitbD2aeyD8-64" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="1001" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FdfZOA-G8NitbD2aeyD8-48" value="Send email to verify" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="860" y="40" width="120" height="60" as="geometry" />
