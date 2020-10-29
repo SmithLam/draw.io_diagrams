@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T08:07:35.572Z" agent="5.0 (Windows)" etag="ZPpRbROYDKBoKFQr7ymi" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T08:09:54.510Z" agent="5.0 (Windows)" etag="mf-0ulqLpvTq2XYJ0hlV" version="13.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SEV VR ">
-    <mxGraphModel dx="865" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-0" value="&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;TCB VR Back-up Plan &lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;FLOW&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;created on 29 October 2020&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="60" width="471" height="180" as="geometry" />
+          <mxGeometry x="440" y="60" width="471" height="180" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-32" value="Landing page" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="310" width="120" height="80" as="geometry" />
