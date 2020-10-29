@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T07:45:31.245Z" agent="5.0 (Windows)" etag="RHm0LR1NZcokkBqMuw4v" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T07:46:25.621Z" agent="5.0 (Windows)" etag="lvwTKVq2Sg0k6L87okbe" version="13.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-81" value="Prize for each Run Club" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="1325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-90" value="Delivery" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-90" value="Delivery (post-Race)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="310" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-91" value="Pick-up point for: runners inside HCMC area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -135,9 +135,6 @@
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-92" value="Manual delivery for: runners outside HCMC area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1170" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-53" target="oHbhuXtI6-rKNKKMC2HJ-53">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
