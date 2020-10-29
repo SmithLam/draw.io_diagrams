@@ -1,143 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T08:41:42.893Z" agent="5.0 (Windows)" etag="_s5hyR1wGljxwVEHkMZ8" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T09:22:51.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="6fVWKPXBE7pJdn_bgu_8" version="13.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SEV VR ">
-    <mxGraphModel dx="1221" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-0" value="&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;TCB VR Back-up Plan &lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;FLOW&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;created on 29 October 2020&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="60" width="471" height="180" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-0" value="&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;TCB VR Back-up Plan &lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;FLOW&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;h1&gt;&lt;font face=&quot;Verdana&quot;&gt;created on 29 October 2020&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="60" width="591" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-32" value="Landing page" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="310" width="120" height="80" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-32" value="Landing page" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="310" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-33" value="&lt;div&gt;User Registration/&lt;/div&gt;&lt;div&gt;Profile&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="310" width="130" height="80" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-33" value="&lt;div&gt;User Registration/&lt;/div&gt;&lt;div&gt;Profile&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="310" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-34" value="Virtual Race Mechanism" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="310" width="170" height="80" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-34" value="Virtual Race Mechanism" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="310" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-35" value="Reward" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="310" width="160" height="80" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-35" value="Reward" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="890" y="310" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-37" value="Introduction/Call to Action" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="420" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-37" value="Introduction/Call to Action" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="22" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-38" value="Rules &amp;amp; Regulations for VR challenges" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="600" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-38" value="Rules &amp;amp; Regulations for VR challenges" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="22" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-39" value="Virtual Race/Reward" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="510" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-39" value="Virtual Race/Reward" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="22" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-40" value="Necessary input:Ticket Code (can be personal or Corporate/Run club)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-40" value="Necessary input:Ticket Code (can be personal or Corporate/Run club)" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="214" y="510" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-42" value="Necessary input: Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-42" value="Necessary input: Email" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="214" y="420" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-44" value="Receive BIB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-44" value="Receive BIB" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="420" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-45" value="Choose challenges (42km, 21km, 10km, 5km)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-45" value="Choose challenges (42km, 21km, 10km, 5km)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="600" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-46" value="&lt;div&gt;Data must sync from Strava: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Public Strava ID&lt;/div&gt;&lt;div&gt;- Single Tracklog&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Pace (4min/km to 14min/km)&lt;/div&gt;&lt;div&gt;- Heart rate&lt;/div&gt;&lt;div&gt;-Cadence&lt;/div&gt;&lt;div&gt;- Map&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="690" width="120" height="180" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-46" value="&lt;div&gt;Data must sync from Strava: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Public Strava ID&lt;/div&gt;&lt;div&gt;- Single Tracklog&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Pace (4min/km to 14min/km)&lt;/div&gt;&lt;div&gt;- Heart rate&lt;/div&gt;&lt;div&gt;-Cadence&lt;/div&gt;&lt;div&gt;- Map&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="690" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-47" value="&lt;div&gt;For prize reward:&lt;/div&gt;&lt;div&gt;- Auto synced from wearable devices&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-47" value="&lt;div&gt;For prize reward:&lt;/div&gt;&lt;div&gt;- Auto synced from wearable devices&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="900" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-48" value="Name, Phone, Location, Email, Gender, Age imported from SEV database (can be updated)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="600" width="120" height="90" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-48" value="Name, Phone, Location, Email, Gender, Age imported from SEV database (can be updated)" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="214" y="600" width="141" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-52" value="Connect to Strava" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-52" value="Connect to Strava" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="510" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-53" value="Leaderboard" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="310" width="140" height="80" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-53" value="Leaderboard" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="310" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-54" target="oHbhuXtI6-rKNKKMC2HJ-74">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-54" target="oHbhuXtI6-rKNKKMC2HJ-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-54" value="All Finishers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-54" value="All Finishers" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="420" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-56" target="oHbhuXtI6-rKNKKMC2HJ-76">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-56" target="oHbhuXtI6-rKNKKMC2HJ-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-56" value="&lt;div&gt;42km Marathon:&lt;/div&gt;&lt;div&gt;- Open Vietnamese: Top 5 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 18-29: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 30-39 : top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 40-49: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 50-59: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 60-69: top 3 Male/Female&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="510" width="120" height="230" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-56" value="&lt;div&gt;42km Marathon:&lt;/div&gt;&lt;div&gt;- Open Vietnamese: Top 5 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 18-29: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 30-39 : top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 40-49: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 50-59: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 60-69: top 3 Male/Female&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="510" width="150" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-57" target="oHbhuXtI6-rKNKKMC2HJ-77">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-57" target="oHbhuXtI6-rKNKKMC2HJ-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-57" value="&lt;div&gt;21km Half-Marathon:&lt;/div&gt;&lt;div&gt;- Top 3 fastest Male/Female&lt;/div&gt;&lt;div&gt;- Per age 18-29: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 30-39 : top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 40-49: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 50-59: top 3 Male/Female&lt;/div&gt;- Per age 60-69: top 3 Male/Female" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="750" width="120" height="230" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-57" value="&lt;div&gt;21km Half-Marathon:&lt;/div&gt;&lt;div&gt;- Top 3 fastest Male/Female&lt;/div&gt;&lt;div&gt;- Per age 18-29: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 30-39 : top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 40-49: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 50-59: top 3 Male/Female&lt;/div&gt;- Per age 60-69: top 3 Male/Female" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="750" width="150" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-59" value="Challenge/Reward Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-59" value="Challenge/Reward Profile" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="214" y="720" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-61" value="&lt;div&gt;Data sync Follow campaign schedule (e.g:&lt;/div&gt;&lt;div&gt;runner BIB from 0001 to 2001 can be synced from the first day of the event)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="990" width="120" height="140" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-61" value="&lt;div&gt;Data sync Follow campaign schedule (e.g:&lt;/div&gt;&lt;div&gt;runner BIB from 0001 to 2001 can be synced from the first day of the event)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="420" y="990" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-64" target="oHbhuXtI6-rKNKKMC2HJ-78">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-64" target="oHbhuXtI6-rKNKKMC2HJ-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-64" value="&lt;div&gt;10km: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Top 3 Male/Female&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="990" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-64" value="&lt;div&gt;10km: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Top 3 Male/Female&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="990" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-66" target="oHbhuXtI6-rKNKKMC2HJ-79">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-66" target="oHbhuXtI6-rKNKKMC2HJ-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-66" value="&lt;div&gt;5km:&lt;/div&gt;&lt;div&gt;- Top 3 Male/Female&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="1080" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-66" value="&lt;div&gt;5km:&lt;/div&gt;&lt;div&gt;- Top 3 Male/Female&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="1080" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-67" target="oHbhuXtI6-rKNKKMC2HJ-80">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-67" target="oHbhuXtI6-rKNKKMC2HJ-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-67" value="&lt;div&gt;Corporate Challenge (per ticket code):&lt;/div&gt;&lt;div&gt;- Top 3 distance (combined distance of all members)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Top 3 pace (average pace of all members)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="1170" width="120" height="110" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-67" value="&lt;div&gt;Corporate Challenge (per ticket code):&lt;/div&gt;&lt;div&gt;- Top 3 distance (combined distance of all members)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Top 3 pace (average pace of all members)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="1170" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-69" target="oHbhuXtI6-rKNKKMC2HJ-81">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-69" target="oHbhuXtI6-rKNKKMC2HJ-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-69" value="&lt;div&gt;Rule Club Challenge (per Ticket Code):&lt;/div&gt;&lt;div&gt;- Top 3 run club &lt;br&gt;&lt;/div&gt;(per combined points of all members on 42km/21km/10km)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="1300" width="120" height="110" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-69" value="&lt;div&gt;Rule Club Challenge (per Ticket Code):&lt;/div&gt;&lt;div&gt;- Top 3 run club &lt;br&gt;&lt;/div&gt;(per combined points of all members on 42km/21km/10km)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="1300" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-74" value="&lt;div&gt;- Medal&lt;/div&gt;&lt;div&gt;- Finisher Tee (only for 42km)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Race Kit&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-74" value="&lt;div&gt;- Medal&lt;/div&gt;&lt;div&gt;- Finisher Tee (only for 42km)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Race Kit&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="900" y="420" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-76" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="595" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-76" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="910" y="595" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-77" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="835" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-77" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="910" y="835" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-78" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="990" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-78" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="910" y="990" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-79" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="1080" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-79" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="910" y="1080" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-80" value="Prize for each Corporate" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="1195" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-80" value="Prize for each Corporate" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="910" y="1195" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-81" value="Prize for each Run Club" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="1325" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-81" value="Prize for each Run Club" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="910" y="1325" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-90" value="Delivery (post-Race)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1160" y="310" width="140" height="80" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-90" value="Delivery (post-Race)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1120" y="310" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-91" value="Pick-up point for: runners inside HCMC area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-91" value="Pick-up point for: runners inside HCMC area" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1166" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-92" value="Manual delivery for: runners outside HCMC area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-92" value="Manual delivery for: runners outside HCMC area" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1166" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-94" value="&lt;div&gt;Personal&lt;/div&gt;&lt;div&gt;Challenge&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="510" width="59" height="630" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-94" value="&lt;div&gt;Personal&lt;/div&gt;&lt;div&gt;Challenge&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="510" width="69" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-95" value="&lt;div&gt;Corporate/&lt;/div&gt;&lt;div&gt;Run Club&lt;/div&gt;&lt;div&gt;Challenge&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="1170" width="59" height="235" as="geometry" />
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-95" value="&lt;div&gt;Corporate/&lt;/div&gt;&lt;div&gt;Run Club&lt;/div&gt;&lt;div&gt;Challenge&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="1170" width="69" height="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
