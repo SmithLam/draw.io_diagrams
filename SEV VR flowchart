@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T08:09:54.510Z" agent="5.0 (Windows)" etag="mf-0ulqLpvTq2XYJ0hlV" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T08:41:42.893Z" agent="5.0 (Windows)" etag="_s5hyR1wGljxwVEHkMZ8" version="13.8.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SEV VR ">
     <mxGraphModel dx="1221" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="440" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-48" value="Name, Phone, Location, Email, Gender, Age imported from SEV database (can be updated)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="690" width="120" height="90" as="geometry" />
+          <mxGeometry x="200" y="600" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-52" value="Connect to Strava" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="680" y="750" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-59" value="Challenge/Reward Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-61" value="&lt;div&gt;Data sync Follow campaign schedule (e.g:&lt;/div&gt;&lt;div&gt;runner BIB from 0001 to 2001 can be synced from the first day of the event)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="990" width="120" height="140" as="geometry" />
@@ -96,9 +96,6 @@
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-67" value="&lt;div&gt;Corporate Challenge (per ticket code):&lt;/div&gt;&lt;div&gt;- Top 3 distance (combined distance of all members)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Top 3 pace (average pace of all members)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="1170" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-68" value="Ticket code can be for personal or Corporate/Run club" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-69" target="oHbhuXtI6-rKNKKMC2HJ-81">
           <mxGeometry relative="1" as="geometry" />
