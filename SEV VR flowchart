@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T07:46:25.621Z" agent="5.0 (Windows)" etag="lvwTKVq2Sg0k6L87okbe" version="13.8.6" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-10-29T08:06:22.461Z" agent="5.0 (Windows)" etag="LcjZ__HUKaKReJVP22Gc" version="13.8.6" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="SEV VR ">
+    <mxGraphModel dx="865" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -37,7 +37,7 @@
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-44" value="Receive BIB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-45" value="Personal: Choose challenges (42km, 21km, 10km, 5km)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-45" value="Choose challenges (42km, 21km, 10km, 5km)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-46" value="&lt;div&gt;Data must sync from Strava: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Public Strava ID&lt;/div&gt;&lt;div&gt;- Single Tracklog&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Pace (4min/km to 14min/km)&lt;/div&gt;&lt;div&gt;- Heart rate&lt;/div&gt;&lt;div&gt;-Cadence&lt;/div&gt;&lt;div&gt;- Map&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -65,18 +65,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-56" value="&lt;div&gt;42km Marathon:&lt;/div&gt;&lt;div&gt;- Open Vietnamese: Top 5 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 18-29: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 30-39 : top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 40-49: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 50-59: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 60-69: top 3 Male/Female&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="510" width="120" height="210" as="geometry" />
+          <mxGeometry x="680" y="510" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-57" target="oHbhuXtI6-rKNKKMC2HJ-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-57" value="&lt;div&gt;21km Half-Marathon:&lt;/div&gt;&lt;div&gt;- Top 3 fastest Male/Female&lt;/div&gt;&lt;div&gt;- Per age 18-29: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 30-39 : top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 40-49: top 3 Male/Female&lt;/div&gt;&lt;div&gt;- Per age 50-59: top 3 Male/Female&lt;/div&gt;- Per age 60-69: top 3 Male/Female" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="730" width="120" height="230" as="geometry" />
+          <mxGeometry x="680" y="750" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-59" value="Challenge/Reward Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-61" value="&lt;div&gt;Data sync Follow campaign schedule for data sync (e.g:&lt;/div&gt;&lt;div&gt;BIB from 0001 to 2001 can be synced from the first day of the event)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-61" value="&lt;div&gt;Data sync Follow campaign schedule (e.g:&lt;/div&gt;&lt;div&gt;runner BIB from 0001 to 2001 can be synced from the first day of the event)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="990" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-64" target="oHbhuXtI6-rKNKKMC2HJ-78">
@@ -103,17 +103,17 @@
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-69" target="oHbhuXtI6-rKNKKMC2HJ-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-69" value="&lt;div&gt;Rule Club Challenge (per Ticket Code):&lt;/div&gt;&lt;div&gt;- Top 3 run club &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-69" value="&lt;div&gt;Rule Club Challenge (per Ticket Code):&lt;/div&gt;&lt;div&gt;- Top 3 run club &lt;br&gt;&lt;/div&gt;(per combined points of all members on 42km/21km/10km)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="1300" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-74" value="&lt;div&gt;- Medal&lt;/div&gt;&lt;div&gt;- Finisher Tee (only for 42km)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Race Kit&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-76" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-77" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-78" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="990" width="120" height="60" as="geometry" />
@@ -135,6 +135,12 @@
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-92" value="Manual delivery for: runners outside HCMC area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1170" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-94" value="&lt;div&gt;Personal&lt;/div&gt;&lt;div&gt;Challenge&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="510" width="59" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-95" value="&lt;div&gt;Corporate/&lt;/div&gt;&lt;div&gt;Run Club&lt;/div&gt;&lt;div&gt;Challenge&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="1170" width="59" height="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
