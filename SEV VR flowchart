@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T10:13:28.870Z" agent="5.0 (Windows)" etag="phd-sgTItx4aa33MFaWG" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T10:15:33.366Z" agent="5.0 (Windows)" etag="PK1pYAiudSAhAK51yuNO" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SEV VR ">
     <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,13 +37,13 @@
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-44" value="Receive BIB" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="420" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-45" value="Choose challenges (42km, 21km, 10km, 5km, Kids Run)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-45" value="&lt;div&gt;Choose challenges (42km, 21km, 10km, 5km, Kids Run)- Possible extra challenges&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="600" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-46" value="&lt;div&gt;Data must sync from Strava: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Public Strava ID&lt;/div&gt;&lt;div&gt;- Single Tracklog&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Pace (4min/km to &lt;u&gt;11.4min/km&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;- Heart rate&lt;/div&gt;&lt;div&gt;-Cadence&lt;/div&gt;&lt;div&gt;- Map&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="690" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-47" value="&lt;div&gt;For prize reward:&lt;/div&gt;&lt;div&gt;- Auto synced from wearable devices&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-47" value="&lt;div&gt;For prize reward:&lt;/div&gt;&lt;div&gt;- Auto synced from wearable devices&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="900" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-48" value="Name, Phone, Location, Email, Gender, Age imported from SEV database (can be updated)" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -103,7 +103,7 @@
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-69" value="&lt;div&gt;Rule Club Challenge (per Ticket Code):&lt;/div&gt;&lt;div&gt;- Top 3 run club &lt;br&gt;&lt;/div&gt;(per combined points of all members on 42km/21km/10km)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="1300" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-74" value="&lt;div&gt;- Medal&lt;/div&gt;&lt;div&gt;- Finisher Tee (only for 42km)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Race Kit&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-74" value="&lt;div&gt;- Medal&lt;/div&gt;&lt;div&gt;- Finisher Tee (only for 42km)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Race Kit&lt;/div&gt;&lt;div&gt;- E-Cert&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="900" y="420" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-76" value="Prize for each winner in the tops" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
