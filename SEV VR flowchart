@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T09:22:51.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="6fVWKPXBE7pJdn_bgu_8" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T10:13:28.870Z" agent="5.0 (Windows)" etag="phd-sgTItx4aa33MFaWG" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SEV VR ">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -37,13 +37,13 @@
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-44" value="Receive BIB" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="420" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-45" value="Choose challenges (42km, 21km, 10km, 5km)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-45" value="Choose challenges (42km, 21km, 10km, 5km, Kids Run)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="600" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-46" value="&lt;div&gt;Data must sync from Strava: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Public Strava ID&lt;/div&gt;&lt;div&gt;- Single Tracklog&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Pace (4min/km to 14min/km)&lt;/div&gt;&lt;div&gt;- Heart rate&lt;/div&gt;&lt;div&gt;-Cadence&lt;/div&gt;&lt;div&gt;- Map&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-46" value="&lt;div&gt;Data must sync from Strava: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Public Strava ID&lt;/div&gt;&lt;div&gt;- Single Tracklog&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Pace (4min/km to &lt;u&gt;11.4min/km&lt;/u&gt;)&lt;/div&gt;&lt;div&gt;- Heart rate&lt;/div&gt;&lt;div&gt;-Cadence&lt;/div&gt;&lt;div&gt;- Map&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="690" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-47" value="&lt;div&gt;For prize reward:&lt;/div&gt;&lt;div&gt;- Auto synced from wearable devices&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="oHbhuXtI6-rKNKKMC2HJ-47" value="&lt;div&gt;For prize reward:&lt;/div&gt;&lt;div&gt;- Auto synced from wearable devices&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="900" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-48" value="Name, Phone, Location, Email, Gender, Age imported from SEV database (can be updated)" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -77,7 +77,7 @@
           <mxGeometry x="214" y="720" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-61" value="&lt;div&gt;Data sync Follow campaign schedule (e.g:&lt;/div&gt;&lt;div&gt;runner BIB from 0001 to 2001 can be synced from the first day of the event)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="420" y="990" width="140" height="140" as="geometry" />
+          <mxGeometry x="420" y="990" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-64" target="oHbhuXtI6-rKNKKMC2HJ-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-95" value="&lt;div&gt;Corporate/&lt;/div&gt;&lt;div&gt;Run Club&lt;/div&gt;&lt;div&gt;Challenge&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="1170" width="69" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="h9k6uqgUYV9XV-FMcDaL-0" value="If govt issues complete lockdown (no one can leave home), issue press release statement or social media to delay event, wait until lockdown ends" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="1169" width="141" height="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
