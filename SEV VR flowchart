@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T01:15:44.962Z" agent="5.0 (Windows)" etag="c_h1UGD2c26TB3E8rArE" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T01:16:18.763Z" agent="5.0 (Windows)" etag="oXyLWQ2Txiv94HKjyPAi" version="13.9.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SEV VR ">
     <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="420" y="510" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-53" value="Leaderboard" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="680" y="310" width="200" height="80" as="geometry" />
+          <mxGeometry x="670" y="310" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oHbhuXtI6-rKNKKMC2HJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oHbhuXtI6-rKNKKMC2HJ-54" target="oHbhuXtI6-rKNKKMC2HJ-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
