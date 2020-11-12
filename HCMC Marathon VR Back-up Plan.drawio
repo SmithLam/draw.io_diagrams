@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T06:44:56.214Z" agent="5.0 (Windows)" etag="LYaLKkRHe7KHIU2YbGaE" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T06:46:15.275Z" agent="5.0 (Windows)" etag="T2WrPjfwUq2O2IxqdeLx" version="13.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SEV VR ">
-    <mxGraphModel dx="1221" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -142,10 +142,10 @@
         <mxCell id="h9k6uqgUYV9XV-FMcDaL-0" value="If govt issues complete lockdown (no one can leave home), issue press release statement or social media to delay event, wait until lockdown ends" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="421" y="1264" width="141" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="BYjzepJVmImwzWeKhoDF-0" value="Reset Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BYjzepJVmImwzWeKhoDF-0" value="Reset Password" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="214" y="690" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BYjzepJVmImwzWeKhoDF-3" value="Send email to invite (preset password)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BYjzepJVmImwzWeKhoDF-3" value="Send email to invite (preset password)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="214" y="520" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
